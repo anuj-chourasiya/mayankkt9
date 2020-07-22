@@ -38,9 +38,11 @@ I'm a Master Student at Arizona State University pursuing Computer Software Engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/mayankkt9/mayankkt9/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working at Amazon as an SDE Intern <br />  💻.
+- 💻 I’m currently working at Amazon as an SDE Intern <br />  .
 - 📫 How to reach me: mayank.kt9@gmail.com
 - 📝 [Resume](https://github.com/mayankkt9/mayankkt9/blob/master/resume.pdf)
 
