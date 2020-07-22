@@ -38,8 +38,24 @@ I'm a Master Student at Arizona State University pursuing Computer Software Engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+### Talking about Personal Stuffs:
+
+- 🛠 I’m currently working at Amazon as an SDE Intern <br />  💻.
+- 📫 How to reach me: mayank.kt9@gmail.com
+- 📝 [Resume](https://github.com/mayankkt9/mayankkt9/blob/master/resume.pdf)
+
+
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mayankkt9&show_icons=true&hide_border=true)
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <!--
 **mayankkt9/mayankkt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
