@@ -24,7 +24,7 @@
 I'm a Master Student at Arizona State University pursuing Computer Software Engineering. I like working on challenging problems and wants to be a part of a project that affects millions and billions of people.
 
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/mayankkt9/mayankkt9/master/gifs/coder.gif" />
+<img align="right" height="200" width="325" alt="GIF" src="https://raw.githubusercontent.com/mayankkt9/mayankkt9/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
