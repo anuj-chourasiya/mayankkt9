@@ -18,7 +18,7 @@
 
 <br />
 
-### Glad to see you here! 🤩
+### Glad to see you here! 😃
 
 
 I'm a Master Student at Arizona State University pursuing Computer Software Engineering. I like working on challenging problems and wants to be a part of a project that affects millions and billions of people.
