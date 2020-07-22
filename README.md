@@ -39,7 +39,7 @@ I'm a Master Student at Arizona State University pursuing Computer Software Engi
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mayankkt9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkt9)](https://github.com/mayankkt9/github-readme-stats)
 
 
 #
