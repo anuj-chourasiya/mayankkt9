@@ -38,10 +38,6 @@ I'm a Master Student at Arizona State University pursuing Computer Software Engi
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mayankkt9&show_icons=true&hide_border=true)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkt9)](https://github.com/mayankkt9/github-readme-stats)
-
-
 #
 
 <div align="center">
