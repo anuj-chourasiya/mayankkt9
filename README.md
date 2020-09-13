@@ -28,7 +28,6 @@ I'm a Master Student at Arizona State University pursuing Computer Software Engi
 
 ### Talking about Personal Stuffs:
 
-- 💻 I’m currently working at Amazon as an SDE Intern.
 - 📫 How to reach me: mayank.kt9@gmail.com
 - 📝 My Resume [Resume](https://github.com/mayankkt9/mayankkt9/blob/master/Mayank_CV_S.pdf)
 
